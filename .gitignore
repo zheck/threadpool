@@ -1,0 +1,10 @@
+#user
+
+#build
+DerivedData/
+
+#linked
+*.o
+
+#temporary
+*.~
